@@ -1,6 +1,7 @@
 {
   "name": "bees",
   "version": "0.1.0",
+  "description": "https://scotch.io/tutorials/build-a-restful-api-using-node-and-express-4",
   "private": true,
   "dependencies": {
     "react": "^16.4.2",
